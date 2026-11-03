@@ -29,8 +29,7 @@ Explain the business questions;
 ![Image Alt](https://github.com/wesleythecraft/Sales-Performance-Analysis-2013-2014/blob/main/profit_by_segment.png..png?raw=true)
 
 ### Sales by Country
-![Image Alt]([)](https://github.com/wesleythecraft/Sales-Performance-Analysis-2013-2014/blob/main/Sales_by_Country.png..png?raw=true)
-
+![Image Alt](https://github.com/wesleythecraft/Sales-Performance-Analysis-2013-2014/blob/main/Sales_by_Country.png..png?raw=true)
 
 ### Monthly sales Trend
 
