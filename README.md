@@ -67,5 +67,5 @@ Further analysis could provide deeper insights and address some of the limitatio
 2. **Time Series Analysis and forecasting:** Use additional years of sales data to identify seasonal patterns, forecast future revenue, and support business planning.
 3. **Profitability Analysis:** Investigate the relationship between discounts, sales prices, production costs, and profit across products and business segments.
 4. **Inventory and Operational Analysis:** Combine sales data with inventory and production records to identify stock shortages, excess inventory, and opportunities to improve operational efficiency.
-5. 
+5. **Marketing Performance Analysis:** Incorporate marketing expenditure and campaign data to measure the effectiveness of promotional activities and their contribution to revenue.
 
