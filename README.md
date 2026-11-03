@@ -20,3 +20,4 @@ Explain the business questions;
 
 ## 3. Analysis results
 ### Dashboard Overview
+![Image Alt](https://github.com/wesleythecraft/Sales-Performance-Analysis-2013-2014/blob/main/sales_dashboard.png..png?raw=true)
