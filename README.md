@@ -24,3 +24,12 @@ Explain the business questions;
 
 ### Sales and Profit by Product
 ![Image Alt](https://github.com/wesleythecraft/Sales-Performance-Analysis-2013-2014/blob/main/sales_and_profit_by_product.png..png?raw=true)
+
+### Profit by Segment
+
+
+### Sales by Country
+
+
+### Monthly sales Trend
+
