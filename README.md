@@ -69,3 +69,16 @@ Further analysis could provide deeper insights and address some of the limitatio
 4. **Inventory and Operational Analysis:** Combine sales data with inventory and production records to identify stock shortages, excess inventory, and opportunities to improve operational efficiency.
 5. **Marketing Performance Analysis:** Incorporate marketing expenditure and campaign data to measure the effectiveness of promotional activities and their contribution to revenue.
 
+## Tools Used
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- Slicers and Timelines
+- Interactive Dashboard
+
+## Key Skills Demonstrated
+- Data analysis
+- Data summarisation
+- Data visulaisation
+- Dashboard development
+- Business Insight generation
