@@ -46,7 +46,7 @@ The analysis of the Sales Performance sample dataset (2013-2014) revealed the fo
 
 ### Business Recommendations
 Based on the findings, the following actions are recommended:
-1. **Improve Underperforming Segments:** Management should investigate the Enterprise segment's negative profit and identify whether high operating costs, pricing decisions, or discount practices are contributing to the loss. Appropriate corrective measures shoukd be introduced.
+1. **Improve Underperforming Segments:** Management should investigate the Enterprise segment's negative profit and identify whether high operating costs, pricing decisions, or discount practices are contributing to the loss. Appropriate corrective measures should be introduced.
 2. **Prioritize High-performing Products:** Paseo should receive continued attention through effective marketing, product availability, and sales strategies because it contributes the highest revenue and profit among the products analyzed.
 3. **Strengthen Regional Sales Strategies:** The United States and Canada should remain important markets because of their strong revenue contributions. The business should also examine opportunities to improve sales in Mexico, France and Germany.
 4. **Review Pricing and Discount Policies:** Management should regularly evaluate discount practices to ensure that promotional activities support sales without unnecessarily reducing profit margins.
