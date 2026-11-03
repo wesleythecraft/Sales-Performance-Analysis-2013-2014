@@ -26,6 +26,7 @@ Explain the business questions;
 ![Image Alt](https://github.com/wesleythecraft/Sales-Performance-Analysis-2013-2014/blob/main/sales_and_profit_by_product.png..png?raw=true)
 
 ### Profit by Segment
+![Image Alt] (https://github.com/wesleythecraft/Sales-Performance-Analysis-2013-2014/blob/main/profit_by_segment.png..png?raw=true)
 
 
 ### Sales by Country
