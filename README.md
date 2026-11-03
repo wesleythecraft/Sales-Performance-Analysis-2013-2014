@@ -4,21 +4,19 @@ markdown
 ## Project Overview
 This project analyzes sales and profitability data from 2013 to 2014 using Microsoft Excel.
 
-## Objectives
-- Analyze total sales and profit.
-- Compare performance across business segments.
-- Examine product and country performance.
-- Identify sales trends and discount patterns.
+## 1. Business Problem
+Explain the business questions;
+- Which products generate the highest sales and profit?
+- Which countries and segments contribute most to revenue?
+- How do sales change over time?
+- How do discounts relate to profitability?
+- Where can the business improve its performance?
 
-## Tools Used
-- Microsoft Excel
-- PivotTables
-- PivotCharts
-- Slicers and Timelines
-- Interactive Dashboard
+## 2. Data Overview
+- Dataset: Financial Sample
+- Period: 2013-2014
+- Tools: Microsoft Excel
+- Data preparation and analysis using PivotTables and PivotCharts.
 
-## Project File
-The Excel workbook containing the dataset, analysis, PivotTables, PivotCharts, and dashboard is available in this repository.
-
-## Key Skills Demonstrated
-Data cleaning, data analysis, data visualization and dashboard development.
+## 3. Analysis results
+### Dashboard Overview
