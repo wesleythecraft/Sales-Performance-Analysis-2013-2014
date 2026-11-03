@@ -57,5 +57,15 @@ Based on the findings, the following actions are recommended:
 Although the dataset provides useful insights into sales and profitability, some limitations should be considered:
 1. **Limited Time Period:** The dataset covers only 2013 and 2014. Therefore, it may not reflect current business conditions or long-term sales patterns.
 2. **Limited Customer Information:** The dataset does not provide detailed customer-level information, making it difficult to analyze customer behavior, purchasing frequency, customer retention, or lifetime value.
-3.   
+3. **Limited Operational Context:** Information about inventory levels, marketing expenditure, employee costs, distribution expenses, and competitor activities is not available. These factors could influence sales and profitability.
+4. **Limited Explanation of Profitability:** Although the dataset contains sales, discounts, costs, and profit figures, it does not provide enough operational detail to establish the exact reasons behind losses or changes in profitability.
+5. **Sample Dataset:** The Financial Sample dataset is designed for analytical practice and demonstration. its results should not automatically be treated as representative of an actual company's performnce.
+
+### Future Analysis
+Further analysis could provide deeper insights and address some of the limitations indentified:
+1. **Customer Segmentation Analysis:** Analyze customer purchasing behavior and identify valuable customer groups if customer-level data becomes available.
+2. **Time Series Analysis and forecasting:** Use additional years of sales data to identify seasonal patterns, forecast future revenue, and support business planning.
+3. **Profitability Analysis:** Investigate the relationship between discounts, sales prices, production costs, and profit across products and business segments.
+4. **Inventory and Operational Analysis:** Combine sales data with inventory and production records to identify stock shortages, excess inventory, and opportunities to improve operational efficiency.
+5. 
 
