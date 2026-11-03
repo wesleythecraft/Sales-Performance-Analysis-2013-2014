@@ -32,4 +32,9 @@ Explain the business questions;
 ![Image Alt](https://github.com/wesleythecraft/Sales-Performance-Analysis-2013-2014/blob/main/Sales_by_Country.png..png?raw=true)
 
 ### Monthly sales Trend
+![Image Alt](https://github.com/wesleythecraft/Sales-Performance-Analysis-2013-2014/blob/main/Monthly_Sales_Trend.png..png?raw=true)
+
+### Key Findings
+The analysis of the Sales Performance sample dataset (2013-2014) revealed the following insights:
+1. **Overall Sales and Profitability:** The business generated total sales of $118.73 
 
